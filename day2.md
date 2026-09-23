@@ -1,7 +1,7 @@
 # EC2 Instance with Security Group
 
 ```bash
-resource "aws_security_group" "gs01" {
+resource "aws_security_group" "firewall" {
     name = "tf-sg"
     vpc_id = "vpc-045f8fa11ce0120a0"
 
