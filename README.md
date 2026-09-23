@@ -382,7 +382,7 @@ Examples:
 
 ### What is the State File?
 
-The terraform.tfstate file stores information about the infrastructure managed by Terraform.
+The **terraform.tfstate** file stores information about the infrastructure managed by Terraform.
 
 ---
 
