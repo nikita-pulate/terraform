@@ -200,9 +200,9 @@ A variable is used to pass input values into Terraform configurations.
 # Quick Revision
 
 - Variables make Terraform reusable.
-- [variable.tf] declares variables.
+- variable.tf declares variables.
 - terraform.tfvars stores variable values.
-- [output.tf] displays resource information.
+- output.tf displays resource information.
 - Use var.<variable_name> to access a variable.
 - Use terraform output to display output values.
 
